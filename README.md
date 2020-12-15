@@ -1,5 +1,5 @@
 # ABAP-CRC16
-Calculation of the Cyclic Redundancy Check(CRC) CRC-16/CCITT-FALSE in SAP ABAP.
+SAP ABAP: Calculation of the Cyclic Redundancy Check(CRC) CRC-16/CCITT-FALSE.
 
 Main Class: ``` zcl_crc_16 ```
 
