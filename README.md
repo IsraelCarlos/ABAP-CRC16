@@ -12,9 +12,10 @@ It is an ABAP class, to calculate the Cyclic Redundancy Check (CRC), following t
 Initial Value: FFFF -> 0000FFFF (ABAP)
 Polynomial:    0121 -> 00000121 (ABAP)
 
-# Methods:
-CALC
+- CALC
+
 Import -> I_PAYLOAD (String you want to calculate the CRC)
+
 Return -> R_CRC16 (CRC character in CHAR characters)
 
 CRC16_MAP:
